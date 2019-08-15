@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringBootDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-pay-sdk-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay-dal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay-mgr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay-shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-web" charset="UTF-8" />
+  </component>
+</project>

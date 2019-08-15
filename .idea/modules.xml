@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootDemo/dlc.iml" filepath="$PROJECT_DIR$/SpringBootDemo/dlc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-pay-sdk-java/server-pay-sdk-java.iml" filepath="$PROJECT_DIR$/server-pay-sdk-java/server-pay-sdk-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-pay/spring-boot-pay.iml" filepath="$PROJECT_DIR$/spring-boot-pay/spring-boot-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wxalipay.iml" filepath="$PROJECT_DIR$/.idea/wxalipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay-common/xxpay-common.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay-common/xxpay-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-config/xxpay-config.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-config/xxpay-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay-dal/xxpay-dal.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay-dal/xxpay-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-gateway/xxpay-gateway.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-gateway/xxpay-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay-master.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay-mgr/xxpay-mgr.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay-mgr/xxpay-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-server/xxpay-server.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-server/xxpay-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-service/xxpay-service.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-service/xxpay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay-shop/xxpay-shop.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay-shop/xxpay-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-web/xxpay-web.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay-web/xxpay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/xxpay4dubbo-api.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-api/xxpay4dubbo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-service/xxpay4dubbo-service.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-service/xxpay4dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/xxpay4dubbo-web.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4dubbo/xxpay4dubbo-web/xxpay4dubbo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-boot/xxpay4spring-boot.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-boot/xxpay4spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay4spring-cloud.iml" filepath="$PROJECT_DIR$/xxpay-master/xxpay4spring-cloud/xxpay4spring-cloud.iml" />
+    </modules>
+  </component>
+</project>

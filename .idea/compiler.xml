@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dlc" />
+        <module name="pay" />
+        <module name="server-pay-sdk-java" />
+        <module name="spring-boot-pay" />
+        <module name="xxpay-common" />
+        <module name="xxpay-config" />
+        <module name="xxpay-dal" />
+        <module name="xxpay-gateway" />
+        <module name="xxpay-mgr" />
+        <module name="xxpay-server" />
+        <module name="xxpay-service" />
+        <module name="xxpay-shop" />
+        <module name="xxpay-web" />
+        <module name="xxpay4dubbo-api" />
+        <module name="xxpay4dubbo-service" />
+        <module name="xxpay4dubbo-web" />
+        <module name="xxpay4spring-boot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dlc" target="1.8" />
+      <module name="pay" target="1.8" />
+      <module name="server-pay-sdk-java" target="1.5" />
+      <module name="spring-boot-pay" target="1.6" />
+      <module name="xxpay-common" target="1.5" />
+      <module name="xxpay-config" target="1.8" />
+      <module name="xxpay-dal" target="1.6" />
+      <module name="xxpay-gateway" target="1.8" />
+      <module name="xxpay-master" target="1.5" />
+      <module name="xxpay-mgr" target="1.8" />
+      <module name="xxpay-server" target="1.8" />
+      <module name="xxpay-service" target="1.8" />
+      <module name="xxpay-shop" target="1.8" />
+      <module name="xxpay-web" target="1.8" />
+      <module name="xxpay4dubbo" target="1.8" />
+      <module name="xxpay4dubbo-api" target="1.8" />
+      <module name="xxpay4dubbo-service" target="1.8" />
+      <module name="xxpay4dubbo-web" target="1.8" />
+      <module name="xxpay4spring-boot" target="1.8" />
+      <module name="xxpay4spring-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
