@@ -25,7 +25,7 @@
         <mybatis-plus.version>3.0.3</mybatis-plus.version>
         <druid.version>1.1.0</druid.version>
         <jjwt.version>0.7.0</jjwt.version>
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <httpcore.version>4.4.1</httpcore.version>
         <httpmime.version>4.4.1</httpmime.version>
